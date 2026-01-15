@@ -1,6 +1,6 @@
 Detective's Initial Report:
 
-The Gardener left an anonymous tip about unusual activity at the park.
+Earlier today, The Gardener reported seeing an unexpected light in the library.
 
 This seems like a good place to start our investigation. Remember to:
 - Use 'cd' to move between locations

@@ -1,5 +1,5 @@
 Investigation Update:
 
-A local resident mentions seeing a shadowy figure entering the cafe.
+The floorboards creak, suggesting someone recently walked towards the bakery.
 
-Remember: Use 'cd "cafe"' to follow this lead.
+Remember: Use 'cd "bakery"' to follow this lead.
