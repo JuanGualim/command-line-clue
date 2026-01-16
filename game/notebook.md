@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Artist
 - [X ] The Doctor
-- [ ] The Banker
+- [X ] The Banker
 
 ## Weapons
 - [ ] Heavy Book
@@ -15,4 +15,5 @@
 Magnifying Glass encontrada en la cocina de la panadería.
 Doctor encontrado en los passillos de las tiendas.
 Glass bottle encontrado en los passillos de las tiendas.
+Banker encontrado en la librería.
 Location of the crime is still unknown - the room must have been empty when it happened...
