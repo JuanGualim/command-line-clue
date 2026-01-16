@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Artist
-- [ ] The Doctor
+- [X ] The Doctor
 - [ ] The Banker
 
 ## Weapons
@@ -13,4 +13,5 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 Magnifying Glass encontrada en la cocina de la panadería.
+Doctor encontrado en los passillos de las tiendas.
 Location of the crime is still unknown - the room must have been empty when it happened...
